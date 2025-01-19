@@ -2,7 +2,13 @@ import telebot
 import logging
 import sys
 import time
-from telebot.types import BotCommand, Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
+from telebot.types import (
+    BotCommand,
+    Message,
+    InlineKeyboardMarkup,
+    InlineKeyboardButton,
+    CallbackQuery
+)
 from peewee import IntegrityError
 from models import User, Bio, create_models
 from settings import (
