@@ -162,7 +162,7 @@ def search(message: Message):
 def search(message: Message):
     bot.send_message(
         message.chat.id,
-        'Руководство по эксплуатации'
+        'Руководство по эксплуатации бота'
     )
 
 
