@@ -65,5 +65,5 @@ pip install -r requirements.txt
 ## Автор 👤
 
 **Лосев Кирилл**  
-- GitHub: [Ваш GitHub](https://github.com/uk-kirya)  
-- Telegram: [Ваш Telegram](https://t.me/kirilllossev)  
+- GitHub: [Uk-Kirya](https://github.com/uk-kirya)  
+- Telegram: [t.me/kirilllossev](https://t.me/kirilllossev)  
